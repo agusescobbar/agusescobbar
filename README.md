@@ -1,5 +1,5 @@
 
-### Hola!,[soy Agus!](https://www.instagram.com/agusescobbar/)
+### Hola! Soy Agus!
 
 Bienvenidxs a mi GitHub con mis humildes repositorios <3.
 
@@ -14,6 +14,5 @@ Bienvenidxs a mi GitHub con mis humildes repositorios <3.
 
 
 # mi primer juego desarrollado en renpy!
-# <img" src="https://itch.io/embed/3660849" width="552" height="167">
-
-
+#
+![itchio foto](https://github.com/user-attachments/assets/922ee8e5-6fd0-4bae-907a-52c44c80c8cf)
