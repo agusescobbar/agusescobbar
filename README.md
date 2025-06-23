@@ -27,9 +27,11 @@ freelance! 🎨
 # my first game dev on renpy!
 [Love Boys In Sanma](https://agusescobbar.itch.io/love-boys-in-sanma)
 
-![heart][brian]
+![brian](https://github.com/user-attachments/assets/7dad8ce0-ace1-4cd1-add7-67581d7b034a)
 
-[brian]: https://i.imgur.com/u5ZWn93.mp4
+![taiel](https://github.com/user-attachments/assets/2d24478a-3c37-4142-b59b-62ba4a097765)
+
+
 # °❀⋆.ೃ࿔*:･
 ![heart][def]
 
