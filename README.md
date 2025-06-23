@@ -14,5 +14,6 @@ Bienvenidxs a mi GitHub con mis humildes repositorios <3.
 
 
 # mi primer juego desarrollado en renpy!
-#
+[Love Boys In Sanma](https://agusescobbar.itch.io/love-boys-in-sanma)
 ![itchio foto](https://github.com/user-attachments/assets/922ee8e5-6fd0-4bae-907a-52c44c80c8cf)
+
