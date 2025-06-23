@@ -25,4 +25,4 @@ Welcome to my github! <3
 
 
 # °❀⋆.ೃ࿔*:･
-![heart](https://tenor.com/es-AR/view/saramalacara-badfacesara-ripgang-darksouls-heart-broke-gif-27080962)
+![heart](https://tenor.com/bZM9S.gif)
