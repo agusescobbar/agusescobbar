@@ -29,7 +29,7 @@ freelance! 🎨
 
 ![heart][brian]
 
-[brian]: https://imgur.com/a/jjqjDYC
+[brian]: https://i.imgur.com/u5ZWn93.mp4
 # °❀⋆.ೃ࿔*:･
 ![heart][def]
 
