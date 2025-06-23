@@ -1,7 +1,11 @@
 
 ### Agus mind...
 
-Welcome to my github! <3
+based in Argentina. 📩
+
+i'm a self-taught developer. 👾
+
+freelance! 🎨
 
 ## :computer: likes
 * Dev Web
@@ -23,7 +27,9 @@ Welcome to my github! <3
 # my first game dev on renpy!
 [Love Boys In Sanma](https://agusescobbar.itch.io/love-boys-in-sanma)
 
+![heart][brian]
 
+[brian]: https://imgur.com/a/jjqjDYC
 # °❀⋆.ೃ࿔*:･
 ![heart][def]
 
