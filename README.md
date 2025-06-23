@@ -25,4 +25,7 @@ Welcome to my github! <3
 
 
 # °❀⋆.ೃ࿔*:･
-![heart](https://tenor.com/bZM9S.gif)
+![heart][def]
+
+
+[def]: https://tenor.com/bZM9S.gif
