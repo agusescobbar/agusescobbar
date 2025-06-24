@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/c3dca371-5c4c-46e9-88d2-11b68c2e345f)
 ### Agus mind...
 
 based in Argentina. 📩
@@ -27,9 +27,9 @@ freelance! 🎨
 # my first game dev on renpy!
 [Love Boys In Sanma](https://agusescobbar.itch.io/love-boys-in-sanma)
 
-![brian](https://github.com/user-attachments/assets/7dad8ce0-ace1-4cd1-add7-67581d7b034a)
+![brian](https://media1.tenor.com/m/IsJuh_Uy65gAAAAC/brian-loveboysinsanma-visual-novel.gif)
 
-![taiel](https://github.com/user-attachments/assets/2d24478a-3c37-4142-b59b-62ba4a097765)
+![taiel]([https://github.com/user-attachments/assets/2d24478a-3c37-4142-b59b-62ba4a097765](https://media1.tenor.com/m/jNfeJR_Y_IEAAAAC/boyslove-novel.gif))
 
 
 # °❀⋆.ೃ࿔*:･
