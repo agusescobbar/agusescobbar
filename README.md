@@ -1,5 +1,6 @@
-### Agus Escobbar!
-tech, fashion, 3d, art & games
+<h1 align="center"> Agus Escobbar!</h1>
+<p align="center">tech, fashion, 3d, art & games</p>
+<p align="center">🇦🇷🍄🍵✨🎋</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
